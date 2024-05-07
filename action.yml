@@ -1,5 +1,5 @@
-name: 'Generate DBT Docs'
-description: 'Generates DBT docs for single or multiple projects'
+name: 'Generate DBT Docsss'
+description: 'Generates DBT docs for single project'
 author: 'Praneeth Kumar Reddy Ballarapu (praneeth527)'
 
 branding:
