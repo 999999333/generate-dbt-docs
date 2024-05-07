@@ -48,7 +48,7 @@ async function run() {
     const projectList = []
 
     for (const project of projects) {
-      const projectFullPath = `${cwd}/${projectsDir}/${project}`
+      const projectFullPath = `${cwd}`
       const tmpPath = `${cwd}/${tmpDocDir}/${project}`
       core.info(`changing dir to ${projectFullPath}`)
       process.chdir(projectFullPath)
